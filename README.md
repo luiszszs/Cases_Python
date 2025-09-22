@@ -1,2 +1,2 @@
-# Cases_Python_FEA_Dev
+# Cases_Python
 Resolução de cases de Python oferecidos pela entidade estudantil FEA Dev.
